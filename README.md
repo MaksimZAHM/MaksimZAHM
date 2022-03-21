@@ -4,7 +4,9 @@
 ### I’m currently learning at the Yandex.Practicum Python-developer program.
 
 
-### Languages and Tools: Python / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest
+### Languages and Tools:  
+Python / Django / Django RESTFramework / PostgreSQL / 
+Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest
 
 
 ### 📫 How to reach me::
