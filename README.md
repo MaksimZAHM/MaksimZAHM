@@ -1,4 +1,4 @@
-# Hi! 👋 my name is Maksim and I'm Python-developer.
+# Hi! 👋 my name is Maksim and I'm a Python-developer.
 
 I’m currently learning at the Yandex.Practicum Python-developer program.
 
